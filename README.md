@@ -5,4 +5,4 @@
 ### Selection Sort (Ordenação por Seleção)
 
 # **LINK YOUTUBE**
-## ✔️ https://www.youtube.com/watch?v=Pdvznwg6Br4
+## ✔️ [https://www.youtube.com/watch?v=Pdvznwg6Br4](https://youtu.be/nYxaQ8OdwrA)
